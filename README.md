@@ -1,6 +1,3 @@
-# INFOMR-Project
-Final project submission for the INFOMR course at Utrecht University in Fall 2024. 
-
 # INFOMR-assign
 
 **STEP 1**  
@@ -36,4 +33,5 @@ _Step5_tSNE.py_: code for performing dimensionality reduction using t-SNE
 _Step6_Evaluation.py_: file used to evaluate the results of the queries 
 
 **Additional Files**  
-_AdditonalFIles_ComputeAverages.py:_ file that calculates averages over the entire file and per class  
+Folder contianing additional files used throughout our project, such as those for computing various additional statistics. Also includes previous versions of some steps, in cases where notable changes were made. 
+
